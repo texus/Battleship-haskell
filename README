@@ -1,0 +1,19 @@
+Battleship
+==========
+
+This game was a university assignment.
+
+
+Compile & Run
+-------------
+
+These instructions are for linux only, but the program will also work under different operating systems.
+
+The code can be compiled with the ghc compiler.
+    ghc Battleship.hs
+
+You can run the code interactively
+    ./Battleship
+
+or you can use one of the samples to see the expected ouput.
+    ./Battleship < example-input-1
